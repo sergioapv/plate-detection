@@ -1,0 +1,3 @@
+plate_detection/datasets/
+*.pt
+*.pth
